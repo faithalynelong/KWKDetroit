@@ -15,3 +15,5 @@ import UIKit
 //}
 //let totalPieces = numberOfPizza(friends : 3)
 //print("You should recieve \(totalPieces) pieces of pizza to feed all your amigos")
+
+//NOTES
